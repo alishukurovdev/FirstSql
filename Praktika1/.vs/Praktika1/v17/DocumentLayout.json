@@ -1,0 +1,194 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ca.r214.16\\Documents\\AB204 - Samir\\Praktika1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{474AEE1F-0D5E-4E31-A133-C27E4BE3D8BA}|Praktika1\\Praktika1.csproj|c:\\users\\ca.r214.16\\documents\\ab204 - samir\\praktika1\\praktika1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{474AEE1F-0D5E-4E31-A133-C27E4BE3D8BA}|Praktika1\\Praktika1.csproj|solutionrelative:praktika1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{474AEE1F-0D5E-4E31-A133-C27E4BE3D8BA}|Praktika1\\Praktika1.csproj|c:\\users\\ca.r214.16\\documents\\ab204 - samir\\praktika1\\praktika1\\dal\\alicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{474AEE1F-0D5E-4E31-A133-C27E4BE3D8BA}|Praktika1\\Praktika1.csproj|solutionrelative:praktika1\\dal\\alicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{474AEE1F-0D5E-4E31-A133-C27E4BE3D8BA}|Praktika1\\Praktika1.csproj|c:\\users\\ca.r214.16\\documents\\ab204 - samir\\praktika1\\praktika1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{474AEE1F-0D5E-4E31-A133-C27E4BE3D8BA}|Praktika1\\Praktika1.csproj|solutionrelative:praktika1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{474AEE1F-0D5E-4E31-A133-C27E4BE3D8BA}|Praktika1\\Praktika1.csproj|c:\\users\\ca.r214.16\\documents\\ab204 - samir\\praktika1\\praktika1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{474AEE1F-0D5E-4E31-A133-C27E4BE3D8BA}|Praktika1\\Praktika1.csproj|solutionrelative:praktika1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{474AEE1F-0D5E-4E31-A133-C27E4BE3D8BA}|Praktika1\\Praktika1.csproj|c:\\users\\ca.r214.16\\documents\\ab204 - samir\\praktika1\\praktika1\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{474AEE1F-0D5E-4E31-A133-C27E4BE3D8BA}|Praktika1\\Praktika1.csproj|solutionrelative:praktika1\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{474AEE1F-0D5E-4E31-A133-C27E4BE3D8BA}|Praktika1\\Praktika1.csproj|c:\\users\\ca.r214.16\\documents\\ab204 - samir\\praktika1\\praktika1\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{474AEE1F-0D5E-4E31-A133-C27E4BE3D8BA}|Praktika1\\Praktika1.csproj|solutionrelative:praktika1\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{474AEE1F-0D5E-4E31-A133-C27E4BE3D8BA}|Praktika1\\Praktika1.csproj|c:\\users\\ca.r214.16\\documents\\ab204 - samir\\praktika1\\praktika1\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{474AEE1F-0D5E-4E31-A133-C27E4BE3D8BA}|Praktika1\\Praktika1.csproj|solutionrelative:praktika1\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{474AEE1F-0D5E-4E31-A133-C27E4BE3D8BA}|Praktika1\\Praktika1.csproj|c:\\users\\ca.r214.16\\documents\\ab204 - samir\\praktika1\\praktika1\\models\\baseentuty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{474AEE1F-0D5E-4E31-A133-C27E4BE3D8BA}|Praktika1\\Praktika1.csproj|solutionrelative:praktika1\\models\\baseentuty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{474AEE1F-0D5E-4E31-A133-C27E4BE3D8BA}|Praktika1\\Praktika1.csproj|c:\\users\\ca.r214.16\\documents\\ab204 - samir\\praktika1\\praktika1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{474AEE1F-0D5E-4E31-A133-C27E4BE3D8BA}|Praktika1\\Praktika1.csproj|solutionrelative:praktika1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{474AEE1F-0D5E-4E31-A133-C27E4BE3D8BA}|Praktika1\\Praktika1.csproj|c:\\users\\ca.r214.16\\documents\\ab204 - samir\\praktika1\\praktika1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{474AEE1F-0D5E-4E31-A133-C27E4BE3D8BA}|Praktika1\\Praktika1.csproj|solutionrelative:praktika1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BaseEntuty.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.16\\Documents\\AB204 - Samir\\Praktika1\\Praktika1\\Models\\BaseEntuty.cs",
+              "RelativeDocumentMoniker": "Praktika1\\Models\\BaseEntuty.cs",
+              "ToolTip": "C:\\Users\\ca.r214.16\\Documents\\AB204 - Samir\\Praktika1\\Praktika1\\Models\\BaseEntuty.cs",
+              "RelativeToolTip": "Praktika1\\Models\\BaseEntuty.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T05:55:25.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.16\\Documents\\AB204 - Samir\\Praktika1\\Praktika1\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Praktika1\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\ca.r214.16\\Documents\\AB204 - Samir\\Praktika1\\Praktika1\\Models\\Category.cs",
+              "RelativeToolTip": "Praktika1\\Models\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T05:55:08.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AliContext.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.16\\Documents\\AB204 - Samir\\Praktika1\\Praktika1\\DAl\\AliContext.cs",
+              "RelativeDocumentMoniker": "Praktika1\\DAl\\AliContext.cs",
+              "ToolTip": "C:\\Users\\ca.r214.16\\Documents\\AB204 - Samir\\Praktika1\\Praktika1\\DAl\\AliContext.cs",
+              "RelativeToolTip": "Praktika1\\DAl\\AliContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAoAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T05:40:46.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ca.r214.16\\Documents\\AB204 - Samir\\Praktika1\\Praktika1\\appsettings.json",
+              "RelativeDocumentMoniker": "Praktika1\\appsettings.json",
+              "ToolTip": "C:\\Users\\ca.r214.16\\Documents\\AB204 - Samir\\Praktika1\\Praktika1\\appsettings.json",
+              "RelativeToolTip": "Praktika1\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-20T05:24:46.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r214.16\\Documents\\AB204 - Samir\\Praktika1\\Praktika1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Praktika1\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ca.r214.16\\Documents\\AB204 - Samir\\Praktika1\\Praktika1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Praktika1\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-20T05:12:15.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r214.16\\Documents\\AB204 - Samir\\Praktika1\\Praktika1\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Praktika1\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ca.r214.16\\Documents\\AB204 - Samir\\Praktika1\\Praktika1\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Praktika1\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAJwAAAAAAAAAAAAvwK4AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-20T04:58:15.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.16\\Documents\\AB204 - Samir\\Praktika1\\Praktika1\\Program.cs",
+              "RelativeDocumentMoniker": "Praktika1\\Program.cs",
+              "ToolTip": "C:\\Users\\ca.r214.16\\Documents\\AB204 - Samir\\Praktika1\\Praktika1\\Program.cs",
+              "RelativeToolTip": "Praktika1\\Program.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAxwBIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T04:58:32.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r214.16\\Documents\\AB204 - Samir\\Praktika1\\Praktika1\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Praktika1\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\ca.r214.16\\Documents\\AB204 - Samir\\Praktika1\\Praktika1\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Praktika1\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-20T04:58:29.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r214.16\\Documents\\AB204 - Samir\\Praktika1\\Praktika1\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Praktika1\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\ca.r214.16\\Documents\\AB204 - Samir\\Praktika1\\Praktika1\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Praktika1\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-20T04:58:23.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.16\\Documents\\AB204 - Samir\\Praktika1\\Praktika1\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Praktika1\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\ca.r214.16\\Documents\\AB204 - Samir\\Praktika1\\Praktika1\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Praktika1\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T04:57:50.678Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

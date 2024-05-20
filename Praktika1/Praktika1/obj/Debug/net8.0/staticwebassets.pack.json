@@ -1,0 +1,177 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\ca.r214.16\\Documents\\AB204 - Samir\\Praktika1\\Praktika1\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Praktika1.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Praktika1.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.16\\Documents\\AB204 - Samir\\Praktika1\\Praktika1\\wwwroot\\asserts\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\asserts\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.16\\Documents\\AB204 - Samir\\Praktika1\\Praktika1\\wwwroot\\asserts\\css\\responsive.css",
+      "PackagePath": "staticwebassets\\asserts\\css\\responsive.css"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.16\\Documents\\AB204 - Samir\\Praktika1\\Praktika1\\wwwroot\\asserts\\css\\style.css",
+      "PackagePath": "staticwebassets\\asserts\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.16\\Documents\\AB204 - Samir\\Praktika1\\Praktika1\\wwwroot\\asserts\\css\\style.css.map",
+      "PackagePath": "staticwebassets\\asserts\\css\\style.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.16\\Documents\\AB204 - Samir\\Praktika1\\Praktika1\\wwwroot\\asserts\\css\\style.scss",
+      "PackagePath": "staticwebassets\\asserts\\css\\style.scss"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.16\\Documents\\AB204 - Samir\\Praktika1\\Praktika1\\wwwroot\\asserts\\images\\about-img.jpg",
+      "PackagePath": "staticwebassets\\asserts\\images\\about-img.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.16\\Documents\\AB204 - Samir\\Praktika1\\Praktika1\\wwwroot\\asserts\\images\\c1.png",
+      "PackagePath": "staticwebassets\\asserts\\images\\c1.png"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.16\\Documents\\AB204 - Samir\\Praktika1\\Praktika1\\wwwroot\\asserts\\images\\c2.png",
+      "PackagePath": "staticwebassets\\asserts\\images\\c2.png"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.16\\Documents\\AB204 - Samir\\Praktika1\\Praktika1\\wwwroot\\asserts\\images\\c3.png",
+      "PackagePath": "staticwebassets\\asserts\\images\\c3.png"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.16\\Documents\\AB204 - Samir\\Praktika1\\Praktika1\\wwwroot\\asserts\\images\\c4.png",
+      "PackagePath": "staticwebassets\\asserts\\images\\c4.png"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.16\\Documents\\AB204 - Samir\\Praktika1\\Praktika1\\wwwroot\\asserts\\images\\c5.png",
+      "PackagePath": "staticwebassets\\asserts\\images\\c5.png"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.16\\Documents\\AB204 - Samir\\Praktika1\\Praktika1\\wwwroot\\asserts\\images\\c6.png",
+      "PackagePath": "staticwebassets\\asserts\\images\\c6.png"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.16\\Documents\\AB204 - Samir\\Praktika1\\Praktika1\\wwwroot\\asserts\\images\\call.png",
+      "PackagePath": "staticwebassets\\asserts\\images\\call.png"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.16\\Documents\\AB204 - Samir\\Praktika1\\Praktika1\\wwwroot\\asserts\\images\\experience-img.jpg",
+      "PackagePath": "staticwebassets\\asserts\\images\\experience-img.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.16\\Documents\\AB204 - Samir\\Praktika1\\Praktika1\\wwwroot\\asserts\\images\\f1.png",
+      "PackagePath": "staticwebassets\\asserts\\images\\f1.png"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.16\\Documents\\AB204 - Samir\\Praktika1\\Praktika1\\wwwroot\\asserts\\images\\f2.png",
+      "PackagePath": "staticwebassets\\asserts\\images\\f2.png"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.16\\Documents\\AB204 - Samir\\Praktika1\\Praktika1\\wwwroot\\asserts\\images\\f3.png",
+      "PackagePath": "staticwebassets\\asserts\\images\\f3.png"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.16\\Documents\\AB204 - Samir\\Praktika1\\Praktika1\\wwwroot\\asserts\\images\\f4.png",
+      "PackagePath": "staticwebassets\\asserts\\images\\f4.png"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.16\\Documents\\AB204 - Samir\\Praktika1\\Praktika1\\wwwroot\\asserts\\images\\fb.png",
+      "PackagePath": "staticwebassets\\asserts\\images\\fb.png"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.16\\Documents\\AB204 - Samir\\Praktika1\\Praktika1\\wwwroot\\asserts\\images\\freelance-img.jpg",
+      "PackagePath": "staticwebassets\\asserts\\images\\freelance-img.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.16\\Documents\\AB204 - Samir\\Praktika1\\Praktika1\\wwwroot\\asserts\\images\\instagram.png",
+      "PackagePath": "staticwebassets\\asserts\\images\\instagram.png"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.16\\Documents\\AB204 - Samir\\Praktika1\\Praktika1\\wwwroot\\asserts\\images\\linkedin.png",
+      "PackagePath": "staticwebassets\\asserts\\images\\linkedin.png"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.16\\Documents\\AB204 - Samir\\Praktika1\\Praktika1\\wwwroot\\asserts\\images\\location.png",
+      "PackagePath": "staticwebassets\\asserts\\images\\location.png"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.16\\Documents\\AB204 - Samir\\Praktika1\\Praktika1\\wwwroot\\asserts\\images\\logo.png",
+      "PackagePath": "staticwebassets\\asserts\\images\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.16\\Documents\\AB204 - Samir\\Praktika1\\Praktika1\\wwwroot\\asserts\\images\\mail.png",
+      "PackagePath": "staticwebassets\\asserts\\images\\mail.png"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.16\\Documents\\AB204 - Samir\\Praktika1\\Praktika1\\wwwroot\\asserts\\images\\menu.png",
+      "PackagePath": "staticwebassets\\asserts\\images\\menu.png"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.16\\Documents\\AB204 - Samir\\Praktika1\\Praktika1\\wwwroot\\asserts\\images\\next-angle.png",
+      "PackagePath": "staticwebassets\\asserts\\images\\next-angle.png"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.16\\Documents\\AB204 - Samir\\Praktika1\\Praktika1\\wwwroot\\asserts\\images\\next.png",
+      "PackagePath": "staticwebassets\\asserts\\images\\next.png"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.16\\Documents\\AB204 - Samir\\Praktika1\\Praktika1\\wwwroot\\asserts\\images\\prev-angle.png",
+      "PackagePath": "staticwebassets\\asserts\\images\\prev-angle.png"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.16\\Documents\\AB204 - Samir\\Praktika1\\Praktika1\\wwwroot\\asserts\\images\\prev.png",
+      "PackagePath": "staticwebassets\\asserts\\images\\prev.png"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.16\\Documents\\AB204 - Samir\\Praktika1\\Praktika1\\wwwroot\\asserts\\images\\quote.png",
+      "PackagePath": "staticwebassets\\asserts\\images\\quote.png"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.16\\Documents\\AB204 - Samir\\Praktika1\\Praktika1\\wwwroot\\asserts\\images\\search-icon.png",
+      "PackagePath": "staticwebassets\\asserts\\images\\search-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.16\\Documents\\AB204 - Samir\\Praktika1\\Praktika1\\wwwroot\\asserts\\images\\slider-img.png",
+      "PackagePath": "staticwebassets\\asserts\\images\\slider-img.png"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.16\\Documents\\AB204 - Samir\\Praktika1\\Praktika1\\wwwroot\\asserts\\images\\twitter.png",
+      "PackagePath": "staticwebassets\\asserts\\images\\twitter.png"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.16\\Documents\\AB204 - Samir\\Praktika1\\Praktika1\\wwwroot\\asserts\\images\\youtube.png",
+      "PackagePath": "staticwebassets\\asserts\\images\\youtube.png"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.16\\Documents\\AB204 - Samir\\Praktika1\\Praktika1\\wwwroot\\asserts\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\asserts\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.16\\Documents\\AB204 - Samir\\Praktika1\\Praktika1\\wwwroot\\asserts\\js\\custom.js",
+      "PackagePath": "staticwebassets\\asserts\\js\\custom.js"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.16\\Documents\\AB204 - Samir\\Praktika1\\Praktika1\\wwwroot\\asserts\\js\\jquery-3.4.1.min.js",
+      "PackagePath": "staticwebassets\\asserts\\js\\jquery-3.4.1.min.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Praktika1.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Praktika1.props",
+      "PackagePath": "build\\Praktika1.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Praktika1.props",
+      "PackagePath": "buildMultiTargeting\\Praktika1.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Praktika1.props",
+      "PackagePath": "buildTransitive\\Praktika1.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
